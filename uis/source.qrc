@@ -1,0 +1,560 @@
+<RCC>
+  <qresource prefix="imgs">
+    <file>imgs/calendar.png</file>
+    <file>imgs/add.png</file>
+    <file>imgs/icons8-less-than-52 (1).png</file>
+    <file>imgs/001-chat.png</file>
+    <file>imgs/001-clip-2.png</file>
+    <file>imgs/001-info.png</file>
+    <file>imgs/002-caution.png</file>
+    <file>imgs/002-discount.png</file>
+    <file>imgs/002-pen-1.png</file>
+    <file>imgs/003-credit-card.png</file>
+    <file>imgs/003-cutter-1.png</file>
+    <file>imgs/003-temperature.png</file>
+    <file>imgs/004-bookmarks.png</file>
+    <file>imgs/004-compass.png</file>
+    <file>imgs/004-gift.png</file>
+    <file>imgs/005-brush-1.png</file>
+    <file>imgs/005-direction.png</file>
+    <file>imgs/005-payment-method.png</file>
+    <file>imgs/006-notification.png</file>
+    <file>imgs/006-sharpener.png</file>
+    <file>imgs/006-silent.png</file>
+    <file>imgs/007-keys.png</file>
+    <file>imgs/007-share.png</file>
+    <file>imgs/007-shopping.png</file>
+    <file>imgs/008-id-card.png</file>
+    <file>imgs/008-shuffle.png</file>
+    <file>imgs/008-sold.png</file>
+    <file>imgs/009-attach.png</file>
+    <file>imgs/009-cash-back.png</file>
+    <file>imgs/009-usb.png</file>
+    <file>imgs/010-envelope.png</file>
+    <file>imgs/010-qr-code.png</file>
+    <file>imgs/010-shop.png</file>
+    <file>imgs/011-hot-item.png</file>
+    <file>imgs/011-pencil-case.png</file>
+    <file>imgs/011-trash.png</file>
+    <file>imgs/012-compact-disc.png</file>
+    <file>imgs/012-refresh.png</file>
+    <file>imgs/012-shipping-1.png</file>
+    <file>imgs/013-calculator.png</file>
+    <file>imgs/013-fast-delivery.png</file>
+    <file>imgs/013-linked.png</file>
+    <file>imgs/014-camera.png</file>
+    <file>imgs/014-cutter.png</file>
+    <file>imgs/014-waranty.png</file>
+    <file>imgs/015-auction.png</file>
+    <file>imgs/015-maps.png</file>
+    <file>imgs/015-protractor.png</file>
+    <file>imgs/016-money.png</file>
+    <file>imgs/016-paint.png</file>
+    <file>imgs/016-unlocked.png</file>
+    <file>imgs/017-clip-1.png</file>
+    <file>imgs/017-delete.png</file>
+    <file>imgs/017-locked.png</file>
+    <file>imgs/018-calculator.png</file>
+    <file>imgs/018-marker.png</file>
+    <file>imgs/018-power.png</file>
+    <file>imgs/019-24-hours-1.png</file>
+    <file>imgs/019-loading.png</file>
+    <file>imgs/019-table-clock.png</file>
+    <file>imgs/020-eraser.png</file>
+    <file>imgs/020-location.png</file>
+    <file>imgs/020-recorder.png</file>
+    <file>imgs/021-browser.png</file>
+    <file>imgs/021-calendar.png</file>
+    <file>imgs/021-rating.png</file>
+    <file>imgs/022-notes.png</file>
+    <file>imgs/022-shipping.png</file>
+    <file>imgs/022-sound.png</file>
+    <file>imgs/023-gallery.png</file>
+    <file>imgs/023-globe.png</file>
+    <file>imgs/023-sale.png</file>
+    <file>imgs/024-favourites.png</file>
+    <file>imgs/024-magnifying-glass.png</file>
+    <file>imgs/024-video.png</file>
+    <file>imgs/025-buy.png</file>
+    <file>imgs/025-music.png</file>
+    <file>imgs/025-scissors.png</file>
+    <file>imgs/026-complain.png</file>
+    <file>imgs/026-correction-pen.png</file>
+    <file>imgs/026-health.png</file>
+    <file>imgs/027-attendance.png</file>
+    <file>imgs/027-security-payment.png</file>
+    <file>imgs/027-weather.png</file>
+    <file>imgs/028-24-hours.png</file>
+    <file>imgs/028-download.png</file>
+    <file>imgs/028-highlighter.png</file>
+    <file>imgs/029-hang-up.png</file>
+    <file>imgs/029-purse.png</file>
+    <file>imgs/029-suitcase.png</file>
+    <file>imgs/030-call.png</file>
+    <file>imgs/030-clip.png</file>
+    <file>imgs/030-info.png</file>
+    <file>imgs/031-calculator.png</file>
+    <file>imgs/031-return.png</file>
+    <file>imgs/031-tape-1.png</file>
+    <file>imgs/032-coupon.png</file>
+    <file>imgs/032-news.png</file>
+    <file>imgs/032-tape.png</file>
+    <file>imgs/033-call-center.png</file>
+    <file>imgs/033-glue.png</file>
+    <file>imgs/033-stopwatch.png</file>
+    <file>imgs/034-favourites.png</file>
+    <file>imgs/034-push-pin.png</file>
+    <file>imgs/034-store.png</file>
+    <file>imgs/035-mail.png</file>
+    <file>imgs/035-save.png</file>
+    <file>imgs/035-savings.png</file>
+    <file>imgs/036-barcode.png</file>
+    <file>imgs/036-edit.png</file>
+    <file>imgs/036-folders.png</file>
+    <file>imgs/037-clock.png</file>
+    <file>imgs/037-new.png</file>
+    <file>imgs/037-printer.png</file>
+    <file>imgs/038-games.png</file>
+    <file>imgs/038-ink.png</file>
+    <file>imgs/038-wishlist.png</file>
+    <file>imgs/039-add-to-cart.png</file>
+    <file>imgs/039-search.png</file>
+    <file>imgs/039-square.png</file>
+    <file>imgs/040-compass.png</file>
+    <file>imgs/040-hole-punch.png</file>
+    <file>imgs/040-protection.png</file>
+    <file>imgs/041-contact.png</file>
+    <file>imgs/041-review.png</file>
+    <file>imgs/041-stapler.png</file>
+    <file>imgs/042-crayons.png</file>
+    <file>imgs/042-folder.png</file>
+    <file>imgs/042-priority.png</file>
+    <file>imgs/043-online-shop.png</file>
+    <file>imgs/043-settings.png</file>
+    <file>imgs/043-stamp.png</file>
+    <file>imgs/044-color-pencils.png</file>
+    <file>imgs/044-feedback.png</file>
+    <file>imgs/044-memo.png</file>
+    <file>imgs/045-brush.png</file>
+    <file>imgs/045-switch.png</file>
+    <file>imgs/045-transaction.png</file>
+    <file>imgs/046-email.png</file>
+    <file>imgs/046-fountain-pen.png</file>
+    <file>imgs/046-search.png</file>
+    <file>imgs/047-advertising.png</file>
+    <file>imgs/047-message.png</file>
+    <file>imgs/047-pencil.png</file>
+    <file>imgs/048-notification.png</file>
+    <file>imgs/048-pen.png</file>
+    <file>imgs/048-privacy.png</file>
+    <file>imgs/049-book.png</file>
+    <file>imgs/049-notes.png</file>
+    <file>imgs/049-settings.png</file>
+    <file>imgs/050-calendar.png</file>
+    <file>imgs/050-quality.png</file>
+    <file>imgs/050-ruler.png</file>
+    <file>imgs/1253.png</file>
+    <file>imgs/About-512.png</file>
+    <file>imgs/accessory.png</file>
+    <file>imgs/accessory-1.png</file>
+    <file>imgs/Add Column Filled-100.png</file>
+    <file>imgs/Add Folder-96.png</file>
+    <file>imgs/administrator.png</file>
+    <file>imgs/agreement (2).png</file>
+    <file>imgs/agreement.png</file>
+    <file>imgs/analytics.png</file>
+    <file>imgs/ancient.png</file>
+    <file>imgs/archive.png</file>
+    <file>imgs/atm.png</file>
+    <file>imgs/atm-1.png</file>
+    <file>imgs/atm-2.png</file>
+    <file>imgs/attachments.png</file>
+    <file>imgs/bag.png</file>
+    <file>imgs/bag-1.png</file>
+    <file>imgs/bag-2.png</file>
+    <file>imgs/bag-3.png</file>
+    <file>imgs/bag-4.png</file>
+    <file>imgs/bag-5.png</file>
+    <file>imgs/bag-6.png</file>
+    <file>imgs/bank.png</file>
+    <file>imgs/banker.png</file>
+    <file>imgs/banking.png</file>
+    <file>imgs/barbershop.png</file>
+    <file>imgs/barcode.png</file>
+    <file>imgs/barcode-1.png</file>
+    <file>imgs/bars-chart.png</file>
+    <file>imgs/bars-chart-1.png</file>
+    <file>imgs/basket.png</file>
+    <file>imgs/basket-1.png</file>
+    <file>imgs/basket-2.png</file>
+    <file>imgs/Bat-96.png</file>
+    <file>imgs/boss (2).png</file>
+    <file>imgs/boss.png</file>
+    <file>imgs/boss-1.png</file>
+    <file>imgs/boss-2.png</file>
+    <file>imgs/Box Filled Filled-100.png</file>
+    <file>imgs/box.png</file>
+    <file>imgs/box-1.png</file>
+    <file>imgs/box-2.png</file>
+    <file>imgs/box-3.png</file>
+    <file>imgs/briefcase.png</file>
+    <file>imgs/briefcase-1.png</file>
+    <file>imgs/Bullish-100.png</file>
+    <file>imgs/businessman (2).png</file>
+    <file>imgs/businessman.png</file>
+    <file>imgs/businessman-1.png</file>
+    <file>imgs/business-presentation.png</file>
+    <file>imgs/calculating.png</file>
+    <file>imgs/calculating-1.png</file>
+    <file>imgs/calculating-2.png</file>
+    <file>imgs/calculator.png</file>
+    <file>imgs/Calendar-512.png</file>
+    <file>imgs/Calendar-520.png</file>
+    <file>imgs/Cancel 2-64.png</file>
+    <file>imgs/Cancel 2-512.png</file>
+    <file>imgs/Cancel-500.png</file>
+    <file>imgs/cart.png</file>
+    <file>imgs/cart-1.png</file>
+    <file>imgs/cart-2.png</file>
+    <file>imgs/cart-3.png</file>
+    <file>imgs/cart-4.png</file>
+    <file>imgs/cart-5.png</file>
+    <file>imgs/cart-6.png</file>
+    <file>imgs/cart-7.png</file>
+    <file>imgs/cart-8.png</file>
+    <file>imgs/cart-9.png</file>
+    <file>imgs/cart-10.png</file>
+    <file>imgs/cart-11.png</file>
+    <file>imgs/cart-12.png</file>
+    <file>imgs/cart-13.png</file>
+    <file>imgs/cart-14.png</file>
+    <file>imgs/cart-15.png</file>
+    <file>imgs/cart-16.png</file>
+    <file>imgs/cart-17.png</file>
+    <file>imgs/Cash In Hand-100.png</file>
+    <file>imgs/Cash Register-100.png</file>
+    <file>imgs/cashier.png</file>
+    <file>imgs/cashier-1.png</file>
+    <file>imgs/change.png</file>
+    <file>imgs/chatting.png</file>
+    <file>imgs/check.png</file>
+    <file>imgs/check-box.png</file>
+    <file>imgs/check-mark.png</file>
+    <file>imgs/Checkmark-512 (1).png</file>
+    <file>imgs/Checkmark-512.png</file>
+    <file>imgs/circular-clock.png</file>
+    <file>imgs/circular-graphic.png</file>
+    <file>imgs/circular-target.png</file>
+    <file>imgs/clerk-with-tie (1).png</file>
+    <file>imgs/clothing.png</file>
+    <file>imgs/coin.png</file>
+    <file>imgs/coin-1.png</file>
+    <file>imgs/coin-2.png</file>
+    <file>imgs/coin-3.png</file>
+    <file>imgs/coin-4.png</file>
+    <file>imgs/coin-5.png</file>
+    <file>imgs/coin-6.png</file>
+    <file>imgs/coin-7.png</file>
+    <file>imgs/coin-8.png</file>
+    <file>imgs/coin-9.png</file>
+    <file>imgs/coin-10.png</file>
+    <file>imgs/coins.png</file>
+    <file>imgs/coins-1.png</file>
+    <file>imgs/collaboration.png</file>
+    <file>imgs/comfortable.png</file>
+    <file>imgs/Conference Call Filled-100.png</file>
+    <file>imgs/Contacts-52.png</file>
+    <file>imgs/Contacts-512.png</file>
+    <file>imgs/contract.png</file>
+    <file>imgs/Counter-100.png</file>
+    <file>imgs/crate.png</file>
+    <file>imgs/crate-1.png</file>
+    <file>imgs/crate-2.png</file>
+    <file>imgs/crate-3.png</file>
+    <file>imgs/crate-4.png</file>
+    <file>imgs/crate-5.png</file>
+    <file>imgs/credit-card.png</file>
+    <file>imgs/credit-card-1.png</file>
+    <file>imgs/credit-card-2.png</file>
+    <file>imgs/credit-card-3.png</file>
+    <file>imgs/credit-card-4.png</file>
+    <file>imgs/credit-card-5.png</file>
+    <file>imgs/credit-card-6.png</file>
+    <file>imgs/crm.png</file>
+    <file>imgs/curriculum.png</file>
+    <file>imgs/customer-service.png</file>
+    <file>imgs/customer-service-1.png</file>
+    <file>imgs/dart-board.png</file>
+    <file>imgs/decree.png</file>
+    <file>imgs/Delete-100.png</file>
+    <file>imgs/Delete-500.png</file>
+    <file>imgs/Delete-512.png</file>
+    <file>imgs/delivery-cart.png</file>
+    <file>imgs/delivery-cart-1.png</file>
+    <file>imgs/diagram.png</file>
+    <file>imgs/diagram-1.png</file>
+    <file>imgs/diagram-2.png</file>
+    <file>imgs/diagram-3.png</file>
+    <file>imgs/dollar-symbol (2).png</file>
+    <file>imgs/dollar-symbol.png</file>
+    <file>imgs/dollar-symbol-1.png</file>
+    <file>imgs/dollar-symbol-2.png</file>
+    <file>imgs/dollar-symbol-3.png</file>
+    <file>imgs/Door Opened Filled-100.png</file>
+    <file>imgs/Double Down Filled-100.png</file>
+    <file>imgs/edit.png</file>
+    <file>imgs/Edit-512.png</file>
+    <file>imgs/edit-document.png</file>
+    <file>imgs/email.png</file>
+    <file>imgs/Event Accepted Tentatively Filled-100.png</file>
+    <file>imgs/Exit-96.png</file>
+    <file>imgs/facebook.png</file>
+    <file>imgs/Facebook-512.png</file>
+    <file>imgs/Fast Forward-100.png</file>
+    <file>imgs/favourites.png</file>
+    <file>imgs/finances (2).png</file>
+    <file>imgs/finances.png</file>
+    <file>imgs/flats.png</file>
+    <file>imgs/folder.png</file>
+    <file>imgs/folder-1.png</file>
+    <file>imgs/Future-100.png</file>
+    <file>imgs/get-money.png</file>
+    <file>imgs/give-money.png</file>
+    <file>imgs/graph.png</file>
+    <file>imgs/graph-1.png</file>
+    <file>imgs/graph-2.png</file>
+    <file>imgs/graph-3.png</file>
+    <file>imgs/graph-4.png</file>
+    <file>imgs/graph-5.png</file>
+    <file>imgs/graph-6.png</file>
+    <file>imgs/graph-7.png</file>
+    <file>imgs/graph-8.png</file>
+    <file>imgs/grocery.png</file>
+    <file>imgs/grocery-1.png</file>
+    <file>imgs/growth.png</file>
+    <file>imgs/Guest Male-96.png</file>
+    <file>imgs/Hand Poking Tool Filled-100.png</file>
+    <file>imgs/Hand With Pen-100.png</file>
+    <file>imgs/Helping Hand-100.png</file>
+    <file>imgs/Home-64.png</file>
+    <file>imgs/Home-512.png</file>
+    <file>imgs/Home-520.png</file>
+    <file>imgs/hook.png</file>
+    <file>imgs/horse.png</file>
+    <file>imgs/hot-drink.png</file>
+    <file>imgs/icons8-color-palette.png</file>
+    <file>imgs/icons8-company-100.png</file>
+    <file>imgs/icons8-hand-cursor-100.png</file>
+    <file>imgs/icons8-maximize-window-100.png</file>
+    <file>imgs/icons8-natural-user-interface-2-100.png</file>
+    <file>imgs/icons8-Pause-100.png</file>
+    <file>imgs/icons8-phone-100.png</file>
+    <file>imgs/icons8-Play-100.png</file>
+    <file>imgs/icons8-question-mark-filled-100 (1).png</file>
+    <file>imgs/icons8-question-mark-filled-100.png</file>
+    <file>imgs/icons8-receipt-100.png</file>
+    <file>imgs/icons8-Repeat Filled-100.png</file>
+    <file>imgs/icons8-Select All-100.png</file>
+    <file>imgs/icons8-services-100.png</file>
+    <file>imgs/icons8-sleeping-100.png</file>
+    <file>imgs/icons8-sleeping-in-bed.png</file>
+    <file>imgs/icons8-sleeping-in-bed-filled-100.png</file>
+    <file>imgs/icons8-Sound Filled-100.png</file>
+    <file>imgs/icons8-Stop Filled-100.png</file>
+    <file>imgs/icons8-time-96.png</file>
+    <file>imgs/icons8-time-100.png</file>
+    <file>imgs/icons8-Tree Structure-100.png</file>
+    <file>imgs/icons8-video-playlist.png</file>
+    <file>imgs/icons8-Zoom to Extents-100.png</file>
+    <file>imgs/id-card.png</file>
+    <file>imgs/Info-512.png</file>
+    <file>imgs/insert-coin.png</file>
+    <file>imgs/invention.png</file>
+    <file>imgs/investment.png</file>
+    <file>imgs/judging.png</file>
+    <file>imgs/justice.png</file>
+    <file>imgs/justice-scale.png</file>
+    <file>imgs/Ketchup-100.png</file>
+    <file>imgs/License free.txt</file>
+    <file>imgs/License premium.txt</file>
+    <file>imgs/line-chart (2).png</file>
+    <file>imgs/line-chart.png</file>
+    <file>imgs/line-graph.png</file>
+    <file>imgs/line-graphic.png</file>
+    <file>imgs/Lock-48.png</file>
+    <file>imgs/Lock-512.png</file>
+    <file>imgs/logo.png</file>
+    <file>imgs/logoutnn.png</file>
+    <file>imgs/looking.png</file>
+    <file>imgs/luggage.png</file>
+    <file>imgs/male-reporter.png</file>
+    <file>imgs/man.png</file>
+    <file>imgs/maps-and-flags (2).png</file>
+    <file>imgs/maps-and-flags.png</file>
+    <file>imgs/maps-and-flags-1.png</file>
+    <file>imgs/maps-and-flags-2.png</file>
+    <file>imgs/maps-and-flags-3.png</file>
+    <file>imgs/measuring.png</file>
+    <file>imgs/megaphone.png</file>
+    <file>imgs/men.png</file>
+    <file>imgs/money.png</file>
+    <file>imgs/Money-100.png</file>
+    <file>imgs/money-bag-with-dollar-symbol.png</file>
+    <file>imgs/Monitor Filled-50.png</file>
+    <file>imgs/Motorcycle Filled-100.png</file>
+    <file>imgs/musica-searcher.png</file>
+    <file>imgs/music-player.png</file>
+    <file>imgs/network.png</file>
+    <file>imgs/network-1.png</file>
+    <file>imgs/Next-96.png</file>
+    <file>imgs/notes.png</file>
+    <file>imgs/notes-1.png</file>
+    <file>imgs/notes-2.png</file>
+    <file>imgs/Numerical Sorting-100.png</file>
+    <file>imgs/office-material.png</file>
+    <file>imgs/office-material-1.png</file>
+    <file>imgs/office-material-2.png</file>
+    <file>imgs/office-material-3.png</file>
+    <file>imgs/offices.png</file>
+    <file>imgs/Old Man-100.png</file>
+    <file>imgs/online-store.png</file>
+    <file>imgs/online-store-1.png</file>
+    <file>imgs/online-store-2.png</file>
+    <file>imgs/open.png</file>
+    <file>imgs/opened-email-envelope.png</file>
+    <file>imgs/Order Delivered Filled-100.png</file>
+    <file>imgs/pack.png</file>
+    <file>imgs/packing.png</file>
+    <file>imgs/packing-1.png</file>
+    <file>imgs/packing-2.png</file>
+    <file>imgs/packing-3.png</file>
+    <file>imgs/phone-number.png</file>
+    <file>imgs/pie-chart.png</file>
+    <file>imgs/pie-chart-1.png</file>
+    <file>imgs/pie-chart-2.png</file>
+    <file>imgs/pie-chart-3.png</file>
+    <file>imgs/pie-chart-4.png</file>
+    <file>imgs/pie-chart-5.png</file>
+    <file>imgs/pie-chart-6.png</file>
+    <file>imgs/piggy-bank.png</file>
+    <file>imgs/piggy-bank-1.png</file>
+    <file>imgs/Play-100.png</file>
+    <file>imgs/Plus-500.png</file>
+    <file>imgs/point-of-service.png</file>
+    <file>imgs/poor.png</file>
+    <file>imgs/presentation (2).png</file>
+    <file>imgs/presentation.png</file>
+    <file>imgs/presentation-1.png</file>
+    <file>imgs/presentation-2.png</file>
+    <file>imgs/presentation-3.png</file>
+    <file>imgs/presentation-4.png</file>
+    <file>imgs/presentation-5.png</file>
+    <file>imgs/presentation-6.png</file>
+    <file>imgs/presentation-7.png</file>
+    <file>imgs/presentation-8.png</file>
+    <file>imgs/presentation-9.png</file>
+    <file>imgs/presentation-10.png</file>
+    <file>imgs/presentation-11.png</file>
+    <file>imgs/presentation-12.png</file>
+    <file>imgs/presentation-13.png</file>
+    <file>imgs/presentation-14.png</file>
+    <file>imgs/presentation-15.png</file>
+    <file>imgs/presentation-16.png</file>
+    <file>imgs/presentation-17.png</file>
+    <file>imgs/presentation-18.png</file>
+    <file>imgs/presentation-19.png</file>
+    <file>imgs/price-tag.png</file>
+    <file>imgs/price-tag-1.png</file>
+    <file>imgs/price-tag-2.png</file>
+    <file>imgs/price-tag-3.png</file>
+    <file>imgs/price-tag-4.png</file>
+    <file>imgs/price-tag-5.png</file>
+    <file>imgs/price-tag-6.png</file>
+    <file>imgs/price-tag-7.png</file>
+    <file>imgs/price-tag-8.png</file>
+    <file>imgs/price-tag-9.png</file>
+    <file>imgs/Printer Door Open Filled-100.png</file>
+    <file>imgs/protest.png</file>
+    <file>imgs/push-pin.png</file>
+    <file>imgs/racing.png</file>
+    <file>imgs/reading-glasses.png</file>
+    <file>imgs/receipt.png</file>
+    <file>imgs/Receipt-100.png</file>
+    <file>imgs/record.png</file>
+    <file>imgs/rectangular.png</file>
+    <file>imgs/Recycling-104.png</file>
+    <file>imgs/Refresh-512.png</file>
+    <file>imgs/Reply All Arrow Filled-100.png</file>
+    <file>imgs/Restaurant Menu-100.png</file>
+    <file>imgs/Restaurant Table-100.png</file>
+    <file>imgs/Restaurant-96.png</file>
+    <file>imgs/Rewind-100.png</file>
+    <file>imgs/rewind-time.png</file>
+    <file>imgs/rich.png</file>
+    <file>imgs/ringing.png</file>
+    <file>imgs/safebox.png</file>
+    <file>imgs/safebox-1.png</file>
+    <file>imgs/safebox-2.png</file>
+    <file>imgs/safebox-3.png</file>
+    <file>imgs/safebox-4.png</file>
+    <file>imgs/sailing-boat.png</file>
+    <file>imgs/Sale-100.png</file>
+    <file>imgs/Save as-100.png</file>
+    <file>imgs/Save-100.png</file>
+    <file>imgs/school-material.png</file>
+    <file>imgs/school-material-1.png</file>
+    <file>imgs/Search-100.png</file>
+    <file>imgs/Services-512.png</file>
+    <file>imgs/Settings-500.png</file>
+    <file>imgs/settings-work-tool.png</file>
+    <file>imgs/Shopping Cart Loaded-100.png</file>
+    <file>imgs/shopping-store.png</file>
+    <file>imgs/Stairs Up-50.png</file>
+    <file>imgs/Stairs Up-100.png</file>
+    <file>imgs/stamp.png</file>
+    <file>imgs/stamp-1.png</file>
+    <file>imgs/stand.png</file>
+    <file>imgs/Star-100.png</file>
+    <file>imgs/stats.png</file>
+    <file>imgs/stats-1.png</file>
+    <file>imgs/stats-2.png</file>
+    <file>imgs/store.png</file>
+    <file>imgs/store-1.png</file>
+    <file>imgs/store-2.png</file>
+    <file>imgs/store-3.png</file>
+    <file>imgs/strongbox.png</file>
+    <file>imgs/studying.png</file>
+    <file>imgs/studying-1.png</file>
+    <file>imgs/suitcase.png</file>
+    <file>imgs/suitcase-1.png</file>
+    <file>imgs/suitcase-2.png</file>
+    <file>imgs/Support-512.png</file>
+    <file>imgs/text-lines.png</file>
+    <file>imgs/time-is-money.png</file>
+    <file>imgs/time-passing.png</file>
+    <file>imgs/Toolbox-512.png</file>
+    <file>imgs/Trash-512.png</file>
+    <file>imgs/trucking (2).png</file>
+    <file>imgs/trucking.png</file>
+    <file>imgs/twitter.png</file>
+    <file>imgs/Twitter-512.png</file>
+    <file>imgs/User-100.png</file>
+    <file>imgs/users-group.png</file>
+    <file>imgs/vacations.png</file>
+    <file>imgs/wait.png</file>
+    <file>imgs/Wakeup Hill on Stairs Filled-100.png</file>
+    <file>imgs/Wakeup Hill on Stairs-100.png</file>
+    <file>imgs/wall-calendar.png</file>
+    <file>imgs/wallet.png</file>
+    <file>imgs/wallet-1.png</file>
+    <file>imgs/wallet-2.png</file>
+    <file>imgs/watches.png</file>
+    <file>imgs/weekly-calendar (2).png</file>
+    <file>imgs/weekly-calendar.png</file>
+    <file>imgs/worker (2).png</file>
+    <file>imgs/worker.png</file>
+    <file>imgs/Worldwide Location-100.png</file>
+    <file>imgs/writer.png</file>
+    <file>imgs/yen.png</file>
+  </qresource>
+</RCC>
